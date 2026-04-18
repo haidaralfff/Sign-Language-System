@@ -13,6 +13,24 @@ Proyek ini merupakan aplikasi **Convolutional Neural Network (CNN)** untuk menge
 
 ---
 
+## 📦 Library yang Digunakan
+
+| Library | Version | Fungsi |
+|---------|---------|--------|
+| **NumPy** | Latest | Manipulasi array, operasi numerik |
+| **OpenCV (cv2)** | 4.x+ | Pembacaan gambar, preprocessing, resize citra |
+| **TensorFlow** | 2.x+ | Deep learning framework utama |
+| **Keras** | Built-in TF | Model Sequential, layer Conv2D, Dense, dll |
+| **MediaPipe** | Latest | Hand detection dan landmark tracking untuk data collection |
+| **Python OS** | Built-in | Manajemen file dan directory |
+
+### Cara Install Library:
+```bash
+pip install numpy opencv-python tensorflow mediapipe
+```
+
+---
+
 ## 🎯 Tujuan Proyek
 
 1. Mengembangkan model CNN yang dapat mengenali gesture isyarat untuk 24 huruf SIBI (A-Z kecuali J dan Z)
