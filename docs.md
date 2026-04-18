@@ -70,18 +70,13 @@ SEMESTER 4/SISTEM BAHASA ISYARAT-PENGOLAHAN CITRA/
 
 ### ✅ Bagian yang Sudah Selesai:
 
-1. **Dataset Collection**
-   - ✅ Folder struktur untuk 24 huruf SIBI (A-Y) telah dibuat
-   - ✅ Script `collect_data.py` untuk mengumpulkan data gesture
-   - ✅ Dataset tersimpan dalam format organized per huruf
-
-2. **Model Training**
+1. **Model Training**
    - ✅ CNN model telah dibangun dan dilatih
    - ✅ Model disimpan dalam format `.h5` (cnn_model.h5)
    - ✅ Training dan validation dilakukan dalam `CNN.ipynb`
    - ✅ Metrics akurasi telah dihitung
 
-3. **Data Preprocessing**
+2. **Data Preprocessing**
    - ✅ Normalisasi gambar
    - ✅ Resize gambar ke ukuran standard
    - ✅ Label mapping untuk setiap huruf SIBI
