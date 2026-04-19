@@ -1,0 +1,7 @@
+# Evaluation results directory
+# This will contain:
+# - evaluation_report.txt: Detailed metrics
+# - confusion_matrix.png: Confusion matrix visualization
+# - training_history.png: Training curves
+# - per_class_*.png: Per-class metrics plots
+# - gradcam/: Grad-CAM visualizations

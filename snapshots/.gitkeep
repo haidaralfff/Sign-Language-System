@@ -1,0 +1,3 @@
+# Saved snapshots from real-time inference
+# Use keyboard shortcut 's' during webcam inference to save
+# Saved as: gesture_{CLASS}_{TIMESTAMP}.png

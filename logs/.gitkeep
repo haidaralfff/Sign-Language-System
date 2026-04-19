@@ -1,0 +1,5 @@
+# TensorBoard logs directory
+# Logs will be automatically created during training
+# 
+# To visualize training progress:
+# tensorboard --logdir logs/
